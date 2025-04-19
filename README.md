@@ -2,3 +2,4 @@
 "# mavenProjectSeleniumJava" 
 "# mavenProjectSeleniumJava" 
 "# mavenProjectSeleniumJava" 
+"# HtmlAutomationPracticePage" 
